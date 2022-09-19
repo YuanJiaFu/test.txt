@@ -1,2 +1,4 @@
-# test.txt
-hello world
+#include<stdio>
+int main(){
+  print("hellworld");
+}
